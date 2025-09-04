@@ -1,0 +1,5 @@
+# NL2SQL Agent Dependencies
+openai
+python-dotenv
+pandas
+sqlite3
